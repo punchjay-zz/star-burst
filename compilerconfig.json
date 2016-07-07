@@ -1,0 +1,12 @@
+﻿[
+  {
+    "outputFile": "global.css",
+    "inputFile": "global.scss",
+    "minify": {
+      "enabled": false
+    },
+    "includeInProject": true,
+    "sourceMap": false,
+    "options": { }
+  }
+]
