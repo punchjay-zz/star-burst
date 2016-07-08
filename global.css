@@ -161,9 +161,9 @@
   .star-container .star-burst:nth-child(15) {
     top: 100px;
     left: 15px;
-    -moz-animation: star02 2s infinite ease-out;
-    -o-animation: star02 2s infinite ease-out;
-    -webkit-animation: star02 2s infinite ease-out;
+    -moz-animation: star05 2s infinite ease-out;
+    -o-animation: star05 2s infinite ease-out;
+    -webkit-animation: star05 2s infinite ease-out;
     animation: star05 2s infinite ease-out;
     -moz-animation-delay: 0.2s;
     -o-animation-delay: 0.2s;

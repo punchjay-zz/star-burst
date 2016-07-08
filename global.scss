@@ -206,16 +206,15 @@ body {
     .star-burst:nth-child(15) {
         top: 100px;
         left: 15px;
-        -moz-animation: $star-burst-two;
-        -o-animation: $star-burst-two;
-        -webkit-animation: $star-burst-two;
+        -moz-animation: $star-burst-five;
+        -o-animation: $star-burst-five;
+        -webkit-animation: $star-burst-five;
         animation: $star-burst-five;
         -moz-animation-delay: 0.2s;
         -o-animation-delay: 0.2s;
         -webkit-animation-delay: 0.2s;
         animation-delay: 0.2s;
     }
-
 
     @keyframes star01 {
         0% {
