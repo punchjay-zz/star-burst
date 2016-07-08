@@ -1,13 +1,13 @@
 ﻿body {
-  margin: 0;
-  padding: 0;
-  background: #0E1013; }
+  background: #0E1013;
+  height: 100vh;
+  display: flex;
+  padding: 0; }
 
 .star-container {
   position: relative;
-  margin: 50px auto;
+  margin: auto;
   width: 200px;
-  height: 200px;
   -moz-animation: star-rotate 5s infinite linear;
   -o-animation: star-rotate 5s infinite linear;
   -webkit-animation: star-rotate 5s infinite linear;

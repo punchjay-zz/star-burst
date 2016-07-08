@@ -10,16 +10,16 @@ $star-burst-four: star04 2s infinite ease-out;
 $star-burst-five: star05 2s infinite ease-out;
 
 body {
-    margin: 0;
-    padding: 0;
     background: #0E1013;
+    height: 100vh;
+    display: flex;
+    padding: 0;
 }
 
 .star-container {
     position: relative;
-    margin: 50px auto;
+    margin: auto;
     width: 200px;
-    height: 200px;
     -moz-animation: $rotate-animation;
     -o-animation: $rotate-animation;
     -webkit-animation: $rotate-animation;
